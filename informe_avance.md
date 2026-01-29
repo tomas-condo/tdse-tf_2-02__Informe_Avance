@@ -1,5 +1,5 @@
 
- <img src="https://github.com/user-attachments/assets/15600b18-f73b-4ba3-a959-47f0048a1ab6" alt="image2" width="50%">
+<img width="762" height="292" alt="image" src="https://github.com/user-attachments/assets/c017c98d-2617-4628-9ffd-f0ef87dd2e00" />
  
  # **Juego Interactivo "Simón dice"**
 
@@ -14,6 +14,7 @@
 <img src="https://github.com/user-attachments/assets/50a68e51-d30d-4e24-b707-9aba4f6220db" width="80%">
 <p align="center">
 
-<img src="tabla_avance_1.png">
-<img src="tabla_avance_2.png">
+<img src="tabla_avance_1.png" width="60%">
+<img src="tabla_avance_2.png" width="60%">
+
 </p>
